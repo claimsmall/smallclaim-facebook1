@@ -338,7 +338,7 @@ h6 {
 }
 
 .color-overlay {
-	background: rgba(0, 0, 0, 0.6);
+	background: none;
 }
 
 
@@ -351,7 +351,7 @@ h6 {
 -----------------------------------------*/
 
 header {
-	background: url(../images/maxresdefault.jpg) no-repeat center top fixed;
+	background: url(../images/maxresdefault-1940px-orange-blue2.png) no-repeat center top fixed;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
@@ -493,10 +493,9 @@ header .vertical-registration-form {
 	margin-top: 25px;
 	margin-bottom: 25px;
 	height: 45px;
-	background: #000000;
+	background: rgba(0, 0, 0, 0.5);
 	border-radius: 3px;
 	font-size: 16px;
-	color: rgba(255, 255, 255, 0.5);
 	box-shadow: inherit;
 	-webkit-background-clip: padding-box;
 	-moz-background-clip: padding;
